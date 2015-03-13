@@ -1,0 +1,1 @@
+This is our own fork of the trinitycore project to apply / use own patches / fixes / expansion and so on. The orig. trinitycore can be found here: http://code.google.com/p/trinitycore/ .
